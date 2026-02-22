@@ -14,17 +14,21 @@ I have also been teaching as a full time teaching assistant during my studies, a
 ---
 
 ## Publications
-> Lemonshark: Asynchronous DAG-BFT with Early Finality.  
-> With Michael Yiqing Hu, Yihan Yang, Xiang Liu, Jialin Li. To appear at NSDI 2026.
+1. Lemonshark: Asynchronous DAG-BFT with Early Finality.  
+    - With Michael Yiqing Hu, Yihan Yang, Xiang Liu, Jialin Li   
+    - To appear at NSDI 2026.
 
-> Improved Rank Aggregation under Fairness Constraint. [Link]()
-> With Diptarka Chakraborty, Himika Das, Sanjana Dey. Appeared at IJCAI 2025.
+2. Improved Rank Aggregation under Fairness Constraint. [Link](https://arxiv.org/abs/2505.10006)
+    - With Diptarka Chakraborty, Himika Das, Sanjana Dey
+    - Published at IJCAI 2025.
 
-> Maximum Rank Aggregation - Beyond the Worst Case. [Link](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.12)   
-> With Diptarka Chakraborty. Appeared at FSTTCS 2023.
+3. Maximum Rank Aggregation - Beyond the Worst Case. [Link](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.12)   
+    - With Diptarka Chakraborty
+    - Published at FSTTCS 2023.
 
-> Multi-camera video scene graphs for surveillance videos indexing and retrieval.  
-> With Toshal Patel, Yu Qiang, Wei Tsang Ooi, Roger Zimmermann. Appeared at ICIP 2021.
+4. Multi-camera video scene graphs for surveillance videos indexing and retrieval.  
+    - With Toshal Patel, Yu Qiang, Wei Tsang Ooi, Roger Zimmermann  
+    - Published at ICIP 2021.
 
 ---
 
