@@ -7,9 +7,11 @@
 ---
 
 ## Biography
-I am currently a CS Ph.D. student at National University of Singapore. My interests are in Theoretical Computer Science, especially in **Approximation Algorithms**. My current research often involves algorithmic fairness, where I look at applications of algorithms where fairness is a significant concern.
+I am currently a CS Ph.D. student at National University of Singapore, advised by Dr Diptarka Chakraborty. My interests are in Theoretical Computer Science, especially in **Approximation Algorithms**. My current research often involves algorithmic fairness, where I look at applications of algorithms where fairness is a significant concern.
 
 I have also been teaching as a full time teaching assistant during my studies, and enjoy teaching range of topics, and doing my best to pass on my CS knowledge.
+
+I graduated in May 2020 with a Bachelor's degree in Computer Science from National University of Singapore. Thereafter, I spent around 6 months as a research assistant under Dr Roger Zimmermann before starting my PhD studies.
 
 ---
 
@@ -32,23 +34,26 @@ I have also been teaching as a full time teaching assistant during my studies, a
 
 ---
 
-## Teaching & Curriculum Design
+## Teaching
 
 ### **Design and Analysis of Algorithms (CS3230)**
-* Semester 2 2023/2024
-* Semester 1 2024/2025
 * Semester 1 2025/2026
+* Semester 1 2024/2025
+* Semester 2 2023/2024
 
 ### **Operating Systems (CS2106)**
-* In Semester 1 2021/2022
 * Semester 2 2025/2026
+* Semester 1 2021/2022
+* Semester 1 2018/2019 (As undergrad TA)
 
 ### **Computer Organization (CS2100)**
-* In Semester 2 2020/2021
-* Semester 2 2021/2022
-* Semester 1 2022/2023
-* Semester 2 2022/2023
 * Semester 1 2023/2024
+* Semester 2 2022/2023
+* Semester 1 2022/2023
+* Semester 2 2021/2022
+* Semester 2 2020/2021
+* Semester 2 2019/2020 (As undergrad TA)
+* Semester 2 2017/2018 (As undergrad TA)
 
 ---
 
