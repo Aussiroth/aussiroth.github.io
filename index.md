@@ -7,7 +7,7 @@
 ---
 
 ## Biography
-I am currently a CS Ph.D. student at National University of Singapore, advised by Dr Diptarka Chakraborty. My interests are in Theoretical Computer Science, especially in **Approximation Algorithms**. My current research often involves algorithmic fairness, where I look at applications of algorithms where fairness is a significant concern.
+I am currently a Ph.D. student in CS at National University of Singapore, advised by Dr Diptarka Chakraborty. My interests are in Theoretical Computer Science, especially in **Approximation Algorithms**. My current research often involves algorithmic fairness, where I look at applications of algorithms where fairness is a significant concern.
 
 I have also been teaching as a full time teaching assistant during my studies, and enjoy teaching range of topics, and doing my best to pass on my CS knowledge.
 
