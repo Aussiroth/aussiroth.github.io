@@ -1,4 +1,5 @@
 # Alvin Hong Yao Yan
+<img src="profile.jpg" align="right" width="150" style="margin: 0 0 20px 20px;">
 **Ph.D. Candidate and Full-time Teaching Assistant**  
 *School of Computing* | *National University of Singapore*
 
