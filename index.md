@@ -1,9 +1,8 @@
 # Alvin Hong Yao Yan
-<img src="profile.jpg" align="right" width="150" style="margin: 0 0 20px 20px;">
 **Ph.D. Candidate and Full-time Teaching Assistant**  
 *School of Computing* | *National University of Singapore*
 
-[Google Scholar](https://scholar.google.com/citations?user=6GSud4kAAAAJ) / [GitHub](https://github.com/aussiroth)
+[Google Scholar](https://scholar.google.com/citations?user=6GSud4kAAAAJ)
 
 ---
 
