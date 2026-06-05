@@ -16,27 +16,31 @@ I obtained my Bachelor of Computing in Computer Science (with Honours) from Nati
 ---
 
 ## Publications
-1. Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking.
+1. Explaining Rankings with Hidden Group Bonuses.
+    - With Suraj Shetiya, Sujoy Bhore, Priyanka Golia, Diptarka Chakraborty
+    - To appear at KDD 2026.
+
+2. Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking. [Full paper](https://arxiv.org/abs/2605.23265)
     - With Diptarka Chakraborty, Arya Mazumdar, Barna Saha
     - To appear at ICML 2026.
 
-2. Brief Announcement: Amortized Asynchronous Byzantine Reliable Broadcast with Optimal Resilience
+3. Brief Announcement: Amortized Asynchronous Byzantine Reliable Broadcast with Optimal Resilience.
     - With Michael Yiqing Hu, Jialin Li
     - To appear at PODC 2026.
 
-3. Lemonshark: Asynchronous DAG-BFT with Early Finality. 
+4. Lemonshark: Asynchronous DAG-BFT with Early Finality. 
     - With Michael Yiqing Hu, Yihan Yang, Xiang Liu, Jialin Li   
     - Published at NSDI 2026
 
-4. Improved Rank Aggregation under Fairness Constraint. [Link](https://arxiv.org/abs/2505.10006)
+5. Improved Rank Aggregation under Fairness Constraint. [Full paper](https://arxiv.org/abs/2505.10006)
     - With Diptarka Chakraborty, Himika Das, Sanjana Dey
     - Published at IJCAI 2025.
 
-5. Maximum Rank Aggregation - Beyond the Worst Case. [Link](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.12)   
+6. Maximum Rank Aggregation - Beyond the Worst Case. [Full paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.12)   
     - With Diptarka Chakraborty
     - Published at FSTTCS 2023.
 
-6. Multi-camera video scene graphs for surveillance videos indexing and retrieval.  
+7. Multi-camera video scene graphs for surveillance videos indexing and retrieval.  
     - With Toshal Patel, Yu Qiang, Wei Tsang Ooi, Roger Zimmermann  
     - Published at ICIP 2021.
 
