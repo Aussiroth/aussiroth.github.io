@@ -17,20 +17,20 @@ I obtained my Bachelor of Computing in Computer Science (with Honours) from Nati
 
 ## Publications
 1. Explaining Rankings with Hidden Group Bonuses.
-    - With Suraj Shetiya, Sujoy Bhore, Priyanka Golia, Diptarka Chakraborty
-    - To appear at KDD 2026.
+    - With Suraj Shetiya, Sujoy Bhore, Priyanka Golia, Diptarka Chakraborty [Full paper](https://arxiv.org/abs/2605.29444)
+    - To appear at KDD 2026 (Research track).
 
 2. Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking. [Full paper](https://arxiv.org/abs/2605.23265)
     - With Diptarka Chakraborty, Arya Mazumdar, Barna Saha
-    - To appear at ICML 2026.
+    - Published at ICML 2026.
 
-3. Brief Announcement: Amortized Asynchronous Byzantine Reliable Broadcast with Optimal Resilience.
+3. Brief Announcement: Amortized Asynchronous Byzantine Reliable Broadcast with Optimal Resilience. [Arxiv version](https://arxiv.org/abs/2605.10372)
     - With Michael Yiqing Hu, Jialin Li
-    - To appear at PODC 2026.
+    - Published at PODC 2026.
 
-4. Lemonshark: Asynchronous DAG-BFT with Early Finality. 
+4. Lemonshark: Asynchronous DAG-BFT with Early Finality. [Full Paper](https://arxiv.org/abs/2604.03974)
     - With Michael Yiqing Hu, Yihan Yang, Xiang Liu, Jialin Li   
-    - Published at NSDI 2026
+    - Published at NSDI 2026.
 
 5. Improved Rank Aggregation under Fairness Constraint. [Full paper](https://arxiv.org/abs/2505.10006)
     - With Diptarka Chakraborty, Himika Das, Sanjana Dey
