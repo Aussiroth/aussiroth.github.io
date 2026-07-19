@@ -11,7 +11,7 @@ I am currently a Ph.D. student in CS at National University of Singapore, advise
 
 I have also been teaching as a full time teaching assistant during my PhD studies, and continuing on from teaching part-time as an undergraduate TA. I enjoy teaching a range of topics and doing my best to pass on my CS knowledge.
 
-I obtained my Bachelor of Computing in Computer Science (with Honours) from National University of Singapore in May 2020. Thereafter, I spent around 6 months as a research assistant under Dr Roger Zimmermann before starting my PhD studies.
+Previously, I obtained my Bachelor of Computing in Computer Science (with Honours) from National University of Singapore in May 2020. Thereafter, I spent around 6 months as a research assistant under Dr Roger Zimmermann before starting my PhD studies.
 
 ---
 
