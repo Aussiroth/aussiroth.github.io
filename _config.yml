@@ -1,4 +1,29 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: default
+locale: en-US
+title: "Alvin's website"
+name: "Alvin Hong Yao Yan"
+description: "Personal website of Alvin Hong Yao Yan"
+url: "https://aussiroth.github.io"
+baseurl: ""
+repository: "aussiroth/aussiroth.github.io"
+include:
+  - _pages
+author:
+  name: "Alvin Hong Yao Yan"
+  avatar: "/profile_hls.jpg"
+  bio: "Ph.D. Candidate and Full-time Teaching Assistant"
+  location: "National University of Singapore"
+plugins:
+- jekyll-include-cache
+- jekyll-remote-theme
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
