@@ -7,7 +7,7 @@
 ---
 
 ## Biography
-I am currently a Ph.D. student in CS at National University of Singapore, advised by Dr Diptarka Chakraborty. My interests are broadly in Theoretical Computer Science, though I especially like combinatorial optimization problems and designing **Approximation Algorithms**. My current research often involves algorithmic fairness, where I look at applications of algorithms where fairness is a significant concern.
+I obtained my PhD in Computer Science at the National University of Singapore in October 2026, advised by Dr Diptarka Chakraborty. My interests are broadly in Theoretical Computer Science, though I especially like combinatorial optimization problems and designing **Approximation Algorithms**. My current research often involves algorithmic fairness, where I look at applications of algorithms where fairness is a significant concern.
 
 I have also been teaching as a full time teaching assistant during my PhD studies, and continuing on from teaching part-time as an undergraduate TA. I enjoy teaching a range of topics and doing my best to pass on my CS knowledge.
 
@@ -21,7 +21,7 @@ Note that publications marked * have authors listed in alphabetical order, follo
 
 1. Explaining Rankings with Hidden Group Bonuses.
     - Alvin Hong Yao Yan, Suraj Shetiya, Sujoy Bhore, Priyanka Golia, Diptarka Chakraborty [Full paper](https://arxiv.org/abs/2605.29444)
-    - To appear at KDD 2026 (Research track).
+    - Published at KDD 2026 (Research track).
 
 2. \* Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking. [Full paper](https://arxiv.org/abs/2605.23265)
     - Diptarka Chakraborty, Arya Mazumdar, Barna Saha,. Alvin Hong Yao Yan
@@ -68,6 +68,14 @@ Note that publications marked * have authors listed in alphabetical order, follo
 * Semester 2 2020/2021
 
 ---
+
+## Service
+
+- Reviewer at ICLR 2027
+
+- Reviewer at ICML 2026, awarded Gold reviewer (top 25% of reviewers in quality)
+
+- Emergency Reviewer at IJCAI 2025
 
 ## Contact
 **Email:** `[firstname]y@u.nus.edu`
