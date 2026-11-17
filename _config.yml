@@ -10,10 +10,10 @@ repository: "aussiroth/aussiroth.github.io"
 include:
   - _pages
 author:
-  name: "Alvin Hong Yao Yan"
+  #name: "Alvin Hong Yao Yan"
   avatar: "/profile_hls.jpg"
-  bio: "Ph.D. Candidate and Full-time Teaching Assistant"
-  location: "National University of Singapore"
+  #bio: "Full-time Teaching Assistant"
+  #location: "National University of Singapore"
 plugins:
 - jekyll-include-cache
 - jekyll-remote-theme
@@ -26,4 +26,5 @@ defaults:
       author_profile: true
 
 title: Alvin's website
-logo: /profile_hls.jpg
+logo: /profile.jpg
+classes: wide
