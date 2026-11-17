@@ -1,9 +1,10 @@
 ---
 layout: single
 author_profile: true
+classes: wide
 ---
 
-**Full-time Teaching Assistant**  
+**Full-time Teaching Assistant**
 *School of Computing* | *National University of Singapore*
 
 [Google Scholar](https://scholar.google.com/citations?user=6GSud4kAAAAJ)
