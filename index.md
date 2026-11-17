@@ -3,7 +3,6 @@ layout: single
 author_profile: true
 ---
 
-# Alvin Hong Yao Yan
 **Full-time Teaching Assistant**  
 *School of Computing* | *National University of Singapore*
 
