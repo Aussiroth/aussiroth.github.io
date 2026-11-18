@@ -3,9 +3,8 @@ title: Teaching
 permalink: /teaching/
 layout: single
 author_profile: true
+classes: wide
 ---
-
-## Teaching
 
 I have taught the following classes as a full-time teaching assistant during my PhD candidature.
 

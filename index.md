@@ -4,7 +4,7 @@ author_profile: true
 classes: wide
 ---
 
-### School of Computing | National University of Singapore
+*School of Computing* | *National University of Singapore*
 
 <a href="https://scholar.google.com/citations?user=6GSud4kAAAAJ">Google Scholar</a>
 
