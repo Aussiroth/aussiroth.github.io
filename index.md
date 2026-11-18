@@ -8,9 +8,9 @@ classes: wide
 
 *School of Computing* | *National University of Singapore*
 
-[Google Scholar](https://scholar.google.com/citations?user=6GSud4kAAAAJ)
+<a href="https://scholar.google.com/citations?user=6GSud4kAAAAJ">Google Scholar</a>
 
-![](/profile_hls.jpg)
+<img src="/profile_hls.jpg" alt="" width="500">
 
 ---
 
