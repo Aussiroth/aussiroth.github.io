@@ -28,7 +28,7 @@ Note that publications marked * have authors listed in alphabetical order, follo
     - Alvin Hong Yao Yan, Suraj Shetiya, Sujoy Bhore, Priyanka Golia, Diptarka Chakraborty [Full paper](https://arxiv.org/abs/2605.29444)
     - Published at KDD 2026 (Research track).
 
-2. * Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking. [Full paper](https://arxiv.org/abs/2605.23265)
+2. \* Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking. [Full paper](https://arxiv.org/abs/2605.23265)
     - Diptarka Chakraborty, Arya Mazumdar, Barna Saha,. Alvin Hong Yao Yan
     - Published at ICML 2026.
 
@@ -40,11 +40,11 @@ Note that publications marked * have authors listed in alphabetical order, follo
     - Michael Yiqing Hu, Alvin Hong Yao Yan, Yihan Yang, Xiang Liu, Jialin Li
     - Published at NSDI 2026.
 
-5. * Improved Rank Aggregation under Fairness Constraint. [Full paper](https://arxiv.org/abs/2505.10006)
+5. \* Improved Rank Aggregation under Fairness Constraint. [Full paper](https://arxiv.org/abs/2505.10006)
     - Diptarka Chakraborty, Himika Das, Sanjana Dey, Alvin Hong Yao Yan
     - Published at IJCAI 2025.
 
-6. * Maximum Rank Aggregation - Beyond the Worst Case. [Full paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.12)
+6. \* Maximum Rank Aggregation - Beyond the Worst Case. [Full paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.12)
     - Yan Hong Yao Alvin, Diptarka Chakraborty
     - Published at FSTTCS 2023.
 
